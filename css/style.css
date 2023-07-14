@@ -94,7 +94,7 @@ p {
 
 /* responsive */
 
-@media (min-width: 375px ) {
+@media (min-width: 480px ) {
     .container {
         max-width: 1110px;
         width: 100%;
